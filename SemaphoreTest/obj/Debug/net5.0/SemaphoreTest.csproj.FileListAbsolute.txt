@@ -1,0 +1,16 @@
+C:\Users\milid\source\repos\SemaphoreTest\SemaphoreTest\bin\Debug\net5.0\SemaphoreTest.exe
+C:\Users\milid\source\repos\SemaphoreTest\SemaphoreTest\bin\Debug\net5.0\SemaphoreTest.deps.json
+C:\Users\milid\source\repos\SemaphoreTest\SemaphoreTest\bin\Debug\net5.0\SemaphoreTest.runtimeconfig.json
+C:\Users\milid\source\repos\SemaphoreTest\SemaphoreTest\bin\Debug\net5.0\SemaphoreTest.runtimeconfig.dev.json
+C:\Users\milid\source\repos\SemaphoreTest\SemaphoreTest\bin\Debug\net5.0\SemaphoreTest.dll
+C:\Users\milid\source\repos\SemaphoreTest\SemaphoreTest\bin\Debug\net5.0\ref\SemaphoreTest.dll
+C:\Users\milid\source\repos\SemaphoreTest\SemaphoreTest\bin\Debug\net5.0\SemaphoreTest.pdb
+C:\Users\milid\source\repos\SemaphoreTest\SemaphoreTest\obj\Debug\net5.0\SemaphoreTest.csprojAssemblyReference.cache
+C:\Users\milid\source\repos\SemaphoreTest\SemaphoreTest\obj\Debug\net5.0\SemaphoreTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milid\source\repos\SemaphoreTest\SemaphoreTest\obj\Debug\net5.0\SemaphoreTest.AssemblyInfoInputs.cache
+C:\Users\milid\source\repos\SemaphoreTest\SemaphoreTest\obj\Debug\net5.0\SemaphoreTest.AssemblyInfo.cs
+C:\Users\milid\source\repos\SemaphoreTest\SemaphoreTest\obj\Debug\net5.0\SemaphoreTest.csproj.CoreCompileInputs.cache
+C:\Users\milid\source\repos\SemaphoreTest\SemaphoreTest\obj\Debug\net5.0\SemaphoreTest.dll
+C:\Users\milid\source\repos\SemaphoreTest\SemaphoreTest\obj\Debug\net5.0\ref\SemaphoreTest.dll
+C:\Users\milid\source\repos\SemaphoreTest\SemaphoreTest\obj\Debug\net5.0\SemaphoreTest.pdb
+C:\Users\milid\source\repos\SemaphoreTest\SemaphoreTest\obj\Debug\net5.0\SemaphoreTest.genruntimeconfig.cache
